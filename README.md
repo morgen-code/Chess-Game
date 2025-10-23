@@ -2,7 +2,7 @@
 
 このプロジェクトは、PythonのGUIライブラリ **pygame** とチェス用ライブラリ **python-chess** を組み合わせて作ったシンプルなチェスアプリです。  マウス操作で駒を動かし、基本的なルールに従ってプレイできます。
 
-https://qiita.com/morgen-code/items/45c790e78bc433157524
+[Pythonライブラリを使って5分でチェスゲームを作る](https://qiita.com/morgen-code/items/45c790e78bc433157524)
 
 ## 🎮 主な機能
 
